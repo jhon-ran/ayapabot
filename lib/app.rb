@@ -10,5 +10,9 @@ client = Twitter::REST::Client.new do |config|
   config.access_token_secret = ENV["TWITTER_ACCESS_TOKEN_SECRET"]
 end
 
-# ligne qui permet de tweeter sur ton compte
-client.update("gwübü'k tzu'ndyi!")
+# Tweet action
+#client.update("gwübü'k tzu'ndyi!")
+
+# Like the 25 most recent tweets with the hashtag the word "ayapaneco"
+tweets = client.search("ayapaneco", result_type: "recent").take(5)
+client.favorite(tweets)
