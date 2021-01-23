@@ -13,6 +13,6 @@ end
 # Tweet action
 #client.update("gwübü'k tzu'ndyi!")
 
-# Like the 25 most recent tweets with the hashtag the word "ayapaneco"
+# Like the 25 most recent tweets with the word "ayapaneco"
 tweets = client.search("ayapaneco", result_type: "recent").take(5)
 client.favorite(tweets)
