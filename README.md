@@ -13,8 +13,8 @@
 
 ## Stories
 <dl>
-  <dt>Bot Likes tweet when it is mention the word `ayapaneco`</dt>
-  <dt>Bot Retweets when it is mention the word `ayapaneco`</dt>
+  <dd>Bot Likes tweet when it is mention the word `ayapaneco`</dd>
+  <dd>Bot Retweets when it is mention the word `ayapaneco`</dd>
 </dl>
 
 ## Instructions
@@ -31,8 +31,7 @@
 
 ## Gems
 - Twitter
-- Env
-- Mapbox
+- Dotenv
 
 ## Collaborators
 
