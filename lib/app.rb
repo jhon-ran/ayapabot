@@ -16,7 +16,7 @@ end
 # Like the 20 most recent tweets with the word "ayapaneco"
 tweets = client.search("ayapaneco", result_type: "recent").take(20)
 
-# Don't like our own tweets
+# Don't like or retweet our own tweets
 i = 0
 while i < tweets.length
   if tweets[i].user.screen_name == "ayapaneco"
@@ -25,4 +25,8 @@ while i < tweets.length
   i = i + 1
 end
 
+# Comment the line below if you only want to retweet
 client.favorite(tweets)
+
+# Comment the line below if you only want to like
+client.retweet tweets
