@@ -1,4 +1,4 @@
- #Ayapabot
+ # Ayapabot
  
  The first chatbot to support the revitalization of Ayapaneco, a critically endangered language spoken in Mexico.
 
@@ -19,7 +19,6 @@
 
 ## Instructions
 
-- **Option 1**
     - 🍴 Fork this repo & **HACK AWAY!** 🔨🔨🔨
     - `bundle install`
     - Have fun :heartpulse:
@@ -35,7 +34,8 @@
 - Env
 - Mapbox
 
-## Team
+## Collaborators
 
-https://github.com/jhon-ran
-https://github.com/jordanacaley
+- https://github.com/jhon-ran
+
+- https://github.com/jordanacaley
