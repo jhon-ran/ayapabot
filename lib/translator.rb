@@ -14,9 +14,19 @@ Bundler.require
 
 #print CSV.read("db/dictionary.csv")
 
-table = CSV.parse(File.read("db/dictionary.csv"), headers: true)
+def translate_to_ayapaneco
+  puts "Escribe la palabra que quieres traducir"
+  word_to_translate = gets.chomp.downcase
+  table = CSV.parse(File.read("db/dictionary.csv"), headers: true)
+  i = 0
+  while i < table.length
+    if table[i][0] == word_to_translate && table[i][2] == nil
+      puts "#{table[i][0]} se dice #{table[i][1]}"
+    elsif table[i][0] == word_to_translate && table[i][2] != nil
+      puts "#{table[i][0]} se dice #{table[i][1]} o #{table[i][2]}"
+    end
+    i = i + 1
+  end
+end
 
-print table
-
-puts "Escribe la palabra que quieres traducir"
-word_to_translate = gets.chomp
+translate_to_ayapaneco
