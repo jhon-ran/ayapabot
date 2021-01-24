@@ -13,8 +13,8 @@ end
 # Tweet action
 # client.update("gwübü'k tzu'ndyi!")
 
-# Like the 20 most recent tweets with the word "ayapaneco"
-tweets = client.search("ayapaneco", result_type: "recent").take(20)
+# Like and retweet the 3 most recent tweets with the word "ayapaneco"
+tweets = client.search("ayapaneco", result_type: "recent").take(3)
 
 # Don't like or retweet our own tweets
 i = 0
@@ -30,3 +30,4 @@ client.favorite(tweets)
 
 # Comment the line below if you only want to like
 client.retweet tweets
+
