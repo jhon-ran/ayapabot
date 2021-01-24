@@ -38,10 +38,10 @@ client.search("to:ayapaneco como se dice", result_type: "recent").take(1).collec
       j = 0
       while j < table.length
         # If word has only 1 translation, reply to tweet give translation
-        if table[j][0] == word_in_spanish && table[j][2] == nil
+        if table[j][0] == word_in_spanish && table[j][2] == '*'
           client.update("@#{tweet.user.screen_name} #{table[j][0]} se dice #{table[j][1]}", in_reply_to_status_id: tweet.id)
         # If word has 2 translations, replyt to tweet to give translations
-        elsif table[j][0] == word_in_spanish && table[j][2] != nil
+        elsif table[j][0] == word_in_spanish && table[j][2] != '*'
           client.update("@#{tweet.user.screen_name} #{table[j][0]} se dice #{table[j][1]} o #{table[j][2]}", in_reply_to_status_id: tweet.id)
         end
         j = j + 1
