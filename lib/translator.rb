@@ -16,4 +16,7 @@ Bundler.require
 
 table = CSV.parse(File.read("db/dictionary.csv"), headers: true)
 
-print table[2][1]
+print table
+
+puts "Escribe la palabra que quieres traducir"
+word_to_translate = gets.chomp
