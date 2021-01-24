@@ -1,5 +1,5 @@
-require 'dotenv'
-require 'twitter'
+require 'bundler'
+Bundler.require
 
 Dotenv.load
 
