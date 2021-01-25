@@ -24,7 +24,7 @@ end
 #print CSV.read("db/dictionary.csv")
 
 # Get the most recent tweet that says @ayapaneco como se dice ...?
-client.search("to:ayapaneco como se dice", result_type: "recent").take(1).collect do |tweet|
+client.search("to:ayapaneco como se dice", result_type: "recent").take(2).collect do |tweet|
   # Turn each tweet into an array of words    
   array = tweet.text.split(" ")
   # Iterate through array to find the word "dice"
@@ -35,16 +35,22 @@ client.search("to:ayapaneco como se dice", result_type: "recent").take(1).collec
       word_in_spanish = array[n + 1].delete_suffix('?').downcase
       # Search the dictionary for a match
       table = CSV.parse(File.read("db/dictionary.csv"), headers: true)
-      j = 0
-      while j < table.length
-        # If word has only 1 translation, reply to tweet give translation
-        if table[j][0] == word_in_spanish && table[j][2] == '*'
-          client.update("@#{tweet.user.screen_name} #{table[j][0]} se dice #{table[j][1]}", in_reply_to_status_id: tweet.id)
-        # If word has 2 translations, replyt to tweet to give translations
-        elsif table[j][0] == word_in_spanish && table[j][2] != '*'
-          client.update("@#{tweet.user.screen_name} #{table[j][0]} se dice #{table[j][1]} o #{table[j][2]}", in_reply_to_status_id: tweet.id)
+      # If the word exists in our dictionary, reply with the translation
+      if array.include?(word_in_spanish)
+        j = 0
+        while j < table.length
+          # If word has only 1 translation, reply to tweet give translation
+          if table[j][0] == word_in_spanish && table[j][2] == '*'
+            client.update("@#{tweet.user.screen_name} #{table[j][0]} se dice #{table[j][1]}", in_reply_to_status_id: tweet.id)
+          # If word has 2 translations, replyt to tweet to give translations
+          elsif table[j][0] == word_in_spanish && table[j][2] != '*'
+            client.update("@#{tweet.user.screen_name} #{table[j][0]} se dice #{table[j][1]} o #{table[j][2]}", in_reply_to_status_id: tweet.id)
+          end
+          j = j + 1
         end
-        j = j + 1
+      # If the word doesn't exist in our dictionary, reply that we don't know it yet
+      else 
+        client.update("@#{tweet.user.screen_name} Lo siento, todavía no sé esa palabra. Pregúntame después.", in_reply_to_status_id: tweet.id)
       end
     end
     n = n + 1
