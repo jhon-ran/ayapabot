@@ -1,6 +1,6 @@
  # Ayapabot
  
- The first chatbot to support the revitalization of Ayapaneco, a critically endangered language spoken in Mexico.
+ The first chatbot to support the revitalization of an indigenous language of Mexico.
 
 ## Table of Contents
 
