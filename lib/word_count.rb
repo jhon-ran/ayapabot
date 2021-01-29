@@ -13,4 +13,7 @@ end
 table = CSV.parse(File.read("db/dictionary.csv"), headers: true).map(&:fields)
 
 # Tweet action
-client.update("Gwübü'k tzu'ndyi. ¡Ya sé #{table.length} palabras!")
+#client.update("Gwübü'k tzu'ndyi. ¡Ya sé #{table.length} palabras!")
+
+#buenas tardes message
+client.update("Gwübü'k tu'k jaama. ¡Ya sé #{table.length} palabras!")
