@@ -41,8 +41,10 @@ criatura,uu'ne,*,uu'ne,*
 cuatro,mbaksna,*,maks-na,*
 culebra,tzaanyo,*,tzaanyo,*
 diente,tütz,*,tütz,*
+dinero,tumi,tume,tumin,*
 dos,gwüshna,*,wüwh-na,*
 elote,mbu'umaj,*,mu'uma-'aj,*
+estómago,tzek,*,tzek,*
 estrella,mbaa'tza,*,maa'tza,*
 fiesta,shung,*,shung,*
 flor,mbooya,*,mooya,*
@@ -56,6 +58,7 @@ gente,kristyaano,*,kristyaano,*
 gordo,mbüj,*,müj,*
 gracias,dyuus yuja'a,*,*,*
 grande,gwüt,*,wüt,*
+grande,yümi,yüme,yümi,*
 guajolote,nda'ngdu'u,*,na'ng-tu'un,*
 guayaba,paa'da,*,paa'tan,*
 hamaca,kajtza',*,kajtza',*
@@ -65,6 +68,7 @@ hombre,püü,püüsi,püüshin,*
 hormiga,jatzuugi,jatzuuge,jatzuuki,*
 hueso,pak,*,pak,*
 huevo,po'ogwi,*,po'owi,*
+iglesia,mbashtük,*,maash-tük,*
 iguana,paadzya,paadzyu,paatzya,*
 jícara,ee'gwüsh,*,'ee'wash,*
 lengua,totz,*,totz,*
@@ -82,9 +86,11 @@ mariposa,po'mbo'm,pabaalo,po'm-po'm,*
 melón,meluunes,meluunis,meluunes,*
 mesa,meesha,*,meesha,*
 miel,tzingunü',*,tzingu-nü',*
+moneda,tume,tumi,tumin,*
 mono,uudzu,*,'uutzu,*
 morado,moraa,*,moraa,*
 naranja,alaasha,*,alaasha,*
+nariz,kiingo,*,kiingo,*
 negro,yük,*,yük,*
 noche,tzu',*,tzu',*
 nube,u'ksi,*,'u'ksi,*
@@ -95,6 +101,7 @@ palabra,oodi,oode,'oode,*
 pañuelo,paayu,*,paayu,*
 papaya,ondza,*,'ontza,*
 patio,angǘ'ü,,'ang-kü'ü,*
+pejelagarto,akshaj,*,'akshaj,*
 perro,taa'ga,*,taa'ka,*
 pez,gwo'ng,*,wo'ng,*
 pie,chande,chandi,tante,*
@@ -107,6 +114,7 @@ rodilla,koosho,*,kooshu,*
 rojo,tzaba'tz,*,*,*
 ropa,yo'odi,*,yo'te,*
 sal,kaana,*,tzapa'tz,*
+salida,puudi,puude,put-e,*
 saliva,tzuuje,*,tzuj-e,*
 sangre,ndǘ'übi,*,nü'üpi,*
 semilla,puj,*,puj,*
@@ -124,3 +132,4 @@ verdad,numde,numdi,numte,*
 verdadero,numde,numdi,numte,*
 verde,tzuush,*,tzuush,*
 yo,ütz,*,'ütz,*
+yuca,piisi,piise,piishi,*
