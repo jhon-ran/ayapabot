@@ -24,7 +24,7 @@ end
 #print CSV.read("db/dictionary.csv")
 
 # Get the most recent tweet that says @ayapaneco como se dice ...?
-client.search("to:ayapaneco como se dice", result_type: "recent").take(6).collect do |tweet|
+client.search("to:ayapaneco como se dice", result_type: "recent").take(2).collect do |tweet|
   # Turn each tweet into an array of words    
   array = tweet.text.split(" ")
   # Iterate through array to find the word "dice"
