@@ -4,7 +4,7 @@ Bundler.require
 # Converts csv table into an array
 table = CSV.parse(File.read("db/dictionary.csv"), headers: true).map(&:fields)
 
-# Change order of columns 4 and 5
+# Change order of columns 4 and 5clear
 i = 0
 while i < table.length 
   table[i][3], table[i][4] = table[i][4], table[i][3]
