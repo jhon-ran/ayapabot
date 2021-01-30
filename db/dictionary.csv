@@ -4,6 +4,7 @@ abuelo,aabo,*,'aapo,*
 agua,ndü',*,nü',*
 aguacate,ku'udyi,*,ku'uti,*
 aguardiente,ndǘ'ku,ndǘ'ko,nü'k-ku,*
+alegre,sho'oga,*,sho'okaj,*
 amarillo,pu'utzi,*,pu'utzi,*
 amigo,yamiigo,*,yamiigo,*
 árbol,kuy,*,kuy,*
@@ -13,6 +14,7 @@ banco,gwangu,gwango,wang-ku,*
 bebé,shyan,*,shyan,*
 blanco,poo'bo,*,popo',*
 bonito,shungu,shungo,shun-ku,*
+bueno,gwü,gwüü,wüü,*
 cabello,gwa'y,*,wa'y,*
 cabeza,koobü'k,kook,koopü'k,*
 cacao,kaagwa,*,kaakwa,*
@@ -24,6 +26,7 @@ camino,tung,*,tung,*
 camote,mbün,*,mün,*
 caña,po'ok,*,po'ok,*
 canasta,ko'o,*,ko'on,*
+caracol,shoo'ge,*,shoo'ke,*
 carne,sis,*,shish,*
 casa,tük,*,tük,*
 cayuco,aa',*,'aa',*
@@ -44,6 +47,7 @@ diente,tütz,*,tütz,*
 dinero,tumi,tume,tumin,*
 dos,gwüshna,*,wüwh-na,*
 elote,mbu'umaj,*,mu'uma-'aj,*
+escama,pük,*,pük,*
 estómago,tzek,*,tzek,*
 estrella,mbaa'tza,*,maa'tza,*
 fiesta,shung,*,shung,*
@@ -61,7 +65,9 @@ grande,gwüt,*,wüt,*
 grande,yümi,yüme,yümi,*
 guajolote,nda'ngdu'u,*,na'ng-tu'un,*
 guayaba,paa'da,*,paa'tan,*
+guineo,inela,*,'inela,*
 hamaca,kajtza',*,kajtza',*
+hambre,yu',*,yu',*
 hija,yomaa,*,yomo'-maan,*
 hijo,jaymbea,*,jaaya-maan,*
 hombre,püü,püüsi,püüshin,*
@@ -84,11 +90,14 @@ mano,kü',ki',kü',*
 mar,mbej,mbee,meej,*
 mariposa,po'mbo'm,pabaalo,po'm-po'm,*
 melón,meluunes,meluunis,meluunes,*
+mes,pooya,*,pooya,*
 mesa,meesha,*,meesha,*
 miel,tzingunü',*,tzingu-nü',*
+milpa,kaama',*,kama',*
 moneda,tume,tumi,tumin,*
 mono,uudzu,*,'uutzu,*
 morado,moraa,*,moraa,*
+murcielago,tüüsi,*,tüüshi,*
 naranja,alaasha,*,alaasha,*
 nariz,kiingo,*,kiingo,*
 negro,yük,*,yük,*
@@ -102,11 +111,17 @@ pañuelo,paayu,*,paayu,*
 papaya,ondza,*,'ontza,*
 patio,angǘ'ü,,'ang-kü'ü,*
 pejelagarto,akshaj,*,'akshaj,*
+pelo,pük,*,pük,*
 perro,taa'ga,*,taa'ka,*
+petate,paa'da,*,paa'ta,*
 pez,gwo'ng,*,wo'ng,*
 pie,chande,chandi,tante,*
 piedra,tza',*,tza',*
+plátano,inela,shap,shap,*
+pluma,pük,*,pük,*
 pollo,piyu,*,piyu,*
+popal,koo'bo,*,kopo',*
+pozo,josh,*,josh,*
 pozol,tzeegwa,*,tzeewa,*
 querido,shunda,*,shun-ta,*
 rata,tzuk,*,tzuk,*
@@ -131,5 +146,6 @@ venado,mbǘ'a,*,mü'a,*
 verdad,numde,numdi,numte,*
 verdadero,numde,numdi,numte,*
 verde,tzuush,*,tzuush,*
+viento,shaagwa,*,shawa,*
 yo,ütz,*,'ütz,*
 yuca,piisi,piise,piishi,*
