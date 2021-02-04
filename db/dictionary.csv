@@ -2,7 +2,9 @@ español,ayapaneco1,ayapaneco2,raíz,ejemplo
 abuela,oogo,*,'ooko,*
 abuelo,aabo,*,'aapo,*
 acá,nyi'i,*,nyi',*
+achiote,ku'ibyuugi,ku'ibyuuge,kuy-puuke,*
 agua,ndü',*,nü',*
+aguacatal,ku'dyimbyee'ge,ku'dyimbyee'ga,ku'utin-pee'ke,*
 aguacate,ku'udyi,*,ku'uti,*
 aguardiente,ndǘ'ku,ndǘ'ko,nü'k-ku,*
 alegre,sho'oga,*,sho'okaj,*
@@ -17,6 +19,7 @@ asiento,kuusho,*,kuusho,*
 atrás,jüxü,*,jüxün,*
 banco,gwangu,gwango,wang-ku,*
 bebé,shyan,*,shyan,*
+bejuco,tza',tza'y,tza'y,*
 blanco,poo'bo,*,popo',*
 bonito,shungu,shungo,shun-ku,*
 bueno,gwü,gwüü,wüü,*
@@ -28,8 +31,10 @@ café,kafwel,*,kafwel,*
 calabaza,baashu,baasho,paashu,*
 calor,piijyi,*,pij-e,*
 cama,tze'esh,*,tze'esh,*
+camaleón,kopojko,*,kopojko,*
 camino,tung,*,tung,*
 camote,mbün,*,mün,*
+campo,pee'ge,bee'ge,pee'ke,*
 caña,po'ok,*,po'ok,*
 canasta,ko'o,*,ko'on,*
 cántaro,gwoogo,*,wooko,*
@@ -38,6 +43,7 @@ carbón,ju'uyi,ju'uye,ju'uyi,*
 carne,sis,*,shish,*
 casa,tük,*,tük,*
 cayuco,aa',*,'aa',*
+centro,kuku,kuko,kuk-joj,*
 chile,ndyiigwi,ndyii,niiwi,*
 chorote,gwaayo,*,way-o,*
 cielo,tzap,*,tzap,*
@@ -52,13 +58,16 @@ conejo,kuneejo,kuneej,kunejo,*
 corazón,ayme,*,'ayme,*
 criatura,uu'ne,*,uu'ne,*
 cuatro,mbaksna,*,maks-na,*
+cucaracha,ko'ogo,*,ko'oko,*
 culebra,tzaanyo,*,tzaanyo,*
 diente,tütz,*,tütz,*
 difunto,tzu'tz,*,tzu'utz,*
 dinero,tumi,tume,tumin,*
 dos,gwüshna,*,wüwh-na,*
 dulce,pa'ak,*,pa'ak,*
+duro,kama'k,*,kama'k,*
 elote,mbu'umaj,*,mu'uma-'aj,*
+enfermedad,ka'ago,ka'agu,ka'-ku,*
 entrada,tü'ügi,tü'üge,tü'k-e,*
 escama,pük,*,pük,*
 espuma,yuumi,yuume,yum-e,*
@@ -89,9 +98,11 @@ hambre,yu',*,yu',*
 hija,yomaa,*,yomo'-maan,*
 hijo,jaymbea,*,jaaya-maan,*
 hombre,püü,püüsi,püüshin,*
+horcón,kom,*,kom,*
 hormiga,jatzuugi,jatzuuge,jatzuuki,*
 hueso,pak,*,pak,*
 huevo,po'ogwi,*,po'owi,*
+idioma,oode,oodi,'ote,*
 iglesia,mbashtük,*,maash-tük,*
 iguana,paadzya,paadzyu,paatzya,*
 jícara,ee'gwüsh,*,'ee'wash,*
@@ -107,11 +118,13 @@ mañana,tzu'ndyi,*,tzu'n-ti,*
 mano,kü',ki',kü',*
 mar,mbej,mbee,meej,*
 mariposa,po'mbo'm,pabaalo,po'm-po'm,*
+mecate,tza',tza'y,tza'y,*
 melón,meluunes,meluunis,meluunes,*
 mes,pooya,*,pooya,*
 mesa,meesha,*,meesha,*
 miel,tzingunü',*,tzingu-nü',*
 milpa,kaama',*,kama',*
+mitad,kuku,kuko,kuk-joj,*
 moneda,tume,tumi,tumin,*
 mono,uudzu,*,'uutzu,*
 montaña,gwütjümni,*,wüt-jümni,*
@@ -129,9 +142,11 @@ orilla,naaga,*,naaka,*
 padre,jaado,*,jaatu,*
 pájaro,jon,*,jon,*
 palabra,oodi,oode,'oode,*
+paloma,ku'ugu,ku'ugo,ku'uku,*
 pañuelo,paayu,*,paayu,*
 papaya,ondza,*,'ontza,*
 patio,angǘ'ü,,'ang-kü'ü,*
+pecho,kukpak,*,kuk-pak,*
 pejelagarto,akshaj,*,'akshaj,*
 pelo,pük,*,pük,*
 perro,taa'ga,*,taa'ka,*
@@ -145,7 +160,10 @@ pollo,piyu,*,piyu,*
 popal,koo'bo,*,kopo',*
 pozo,josh,*,josh,*
 pozol,tzeegwa,*,tzeewa,*
+puerco,yooya,*,yooya,*
 querido,shunda,*,shun-ta,*
+quijada,ke'egwi,ke'egwe,ke'ewi,*
+rana,nda'oogo,*,na'ooko,*
 rata,tzuk,*,tzuk,*
 red,nduu,*,nuj,*
 rodilla,koosho,*,kooshu,*
@@ -161,10 +179,12 @@ semilla,puj,*,puj,*
 silla,koongo,*,kong-kü,*
 sol,jaama,*,jaama,*
 tábano,pingbak,*,ping-pak,*
+tapanco,ko'ok,*,ko'ok,*
 tarde,tu'k jaama,*,tu'k-jaama,*
 tecolote,ju',*,ju',*
 tecomate,pok,*,pok,*
 tierra,ndash,*,nash,*
+tigre,kaangje,kaangi,kaangje,*
 tomate,kooyo',*,koyo',*
 tortilla,aane,*,'aane,*
 tres,tuguna,*,tuku-na,*
