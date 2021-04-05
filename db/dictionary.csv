@@ -16,6 +16,7 @@ anona,yaa'dyi,yaa'dye,yaa'tin,*
 árbol,kuy,*,kuy,*
 arroyo,paktu,pakto,pak-tung,*
 asiento,kuusho,*,kuusho,*
+atole,junuu'ne,*,junun-e,*
 atrás,jüxü,*,jüxün,*
 azul,tzuush,*,tzuush,*
 banco,gwangu,gwango,wang-ku,*
@@ -30,6 +31,7 @@ cabeza,koobü'k,kook,koopü'k,*
 cacao,kaagwa,*,kaakwa,*
 café,kafwel,*,kafwel,*
 calabaza,baashu,baasho,paashu,*
+calentura,jukte,*,jukte,*
 calor,piijyi,*,pij-e,*
 cama,tze'esh,*,tze'esh,*
 camaleón,kopojko,*,kopojko,*
@@ -56,11 +58,13 @@ codo,shudigü',*,shut-e-kü',*
 colmena,tzinguguy,*,tzingun-kuy,*
 comal,aa'ga,*,'aa'ka,*
 comida,chikü'üshtaba,*,chi-kü'üsh-taba,*
+cómo,jutz,*,jutz,*
 conejo,kuneejo,kuneej,kunejo,*
 conocer,jo',jo'o,jo',*
 conocimiento,joo'da'aygu,joo'da'aygo,joto'-jay-ku,*
 corazón,ayme,*,'ayme,*
 criatura,uu'ne,*,uu'ne,*
+cuánto,jutzna,*,jutz-na,*
 cuatro,mbaksna,*,maks-na,*
 cucaracha,ko'ogo,*,ko'oko,*
 culebra,tzaanyo,*,tzaanyo,*
@@ -89,7 +93,9 @@ fogón,jogong,*,jokong,*
 frijol,shük,*,shuk,*
 frío,paga'k,*,paka'k,*
 fruta,tüm,*,tüm,*
-fuego,jukte,*,juk-te,*
+fuego,jukte,*,jukte,*
+fumador,jugubü'k,*,juk-u-pü'k,*
+fumar,juk,juug,juk,*
 ganado,gwaagax,*,waakash,*
 gato,miistu,*,miistu,*
 gente,kristyaano,*,kristyaano,*
@@ -106,8 +112,7 @@ hambre,yu',*,yu',*
 herramienta,mbeshku,mbeshko,mesh-ku,*
 hija,yomaa,*,yomo'-maan,*
 hijo,jaymbea,*,jaaya-maan,*
-hola,ju'na,*,*,*
-hola,ju'na,*,ju'-na,*
+hola,juu'na,*,ju'-na,*
 hombre,püü,püüsi,püüshin,*
 horcón,kom,*,kom,*
 hormiga,jatzuugi,jatzuuge,jatzuuki,*
@@ -117,6 +122,7 @@ idioma,oode,oodi,'ote,*
 iglesia,mbashtük,*,maash-tük,*
 iguana,paadzya,paadzyu,paatzya,*
 jícara,ee'gwüsh,*,'ee'wash,*
+lejos,ju'm,*,ju'm,*
 lengua,totz,*,totz,*
 libélula,kasi'iga,*,ka-shi'ika,*
 libro,liburu,*,libru,*
@@ -155,6 +161,7 @@ nuevo,jom,*,jom,*
 olla,shu'u,*,shu'un,*
 oreja,taadzük,*,taatzük,*
 orilla,naaga,*,naaka,*
+oscuro,jumguna,*,jum-kü-na,*
 padre,jaado,*,jaatu,*
 pájaro,jon,*,jon,*
 palabra,oodi,oode,'oode,*
@@ -204,6 +211,7 @@ tecomate,pok,*,pok,*
 tela,yo'odi,*,yo'te,*
 tierra,ndash,*,nash,*
 tigre,kaangje,kaangi,kaangje,*
+tizón,juktiguy,*,jukte-kuy,*
 todavía no,tana,*,taa-na,*
 tomate,kooyo',*,koyo',*
 tortilla,aane,*,'aane,*
