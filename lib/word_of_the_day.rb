@@ -16,6 +16,11 @@ word_of_the_day = table.sample
 
 if word_of_the_day[2] == '*'
   client.update("Gwübü'k tzu'ndyi. La palabra del día es #{word_of_the_day[1]} --> '#{word_of_the_day[0]}'")
+  #Afternoon
+  #client.update("Gwübü'k tu'k jaama. La palabra del día es #{word_of_the_day[1]} --> '#{word_of_the_day[0]}'")
+  
 else
   client.update("Gwübü'k tzu'ndyi. La palabra del día es #{word_of_the_day[1]} o #{word_of_the_day[2]} --> '#{word_of_the_day[0]}'")
+  #Afternoon
+  #client.update("Gwübü'k tu'k jaama. La palabra del día es #{word_of_the_day[1]} o #{word_of_the_day[2]} --> '#{word_of_the_day[0]}'")
 end
