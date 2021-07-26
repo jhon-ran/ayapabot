@@ -3,6 +3,7 @@ abuela,oogo,*,'ooko,*
 abuelo,aabo,*,'aapo,*
 acá,nyi'i,*,nyi',*
 achiote,ku'ibyuugi,ku'ibyuuge,kuy-puuke,*
+agrio,katz,*,katzu',*
 agua,ndü',*,nü',*
 aguacatal,ku'dyimbyee'ge,ku'dyimbyee'ga,ku'utin-pee'ke,*
 aguacate,ku'udyi,*,ku'uti,*
@@ -15,6 +16,7 @@ amigo,yamiigo,*,yamiigo,*
 anona,yaa'dyi,yaa'dye,yaa'tin,*
 árbol,kuy,*,kuy,*
 ardilla,ku'ngi,ku'nge,ku'ngki,*
+arena,po'windshash,*,po'wi-nash,*
 arroyo,paktu,pakto,pak-tung,*
 arroz,aros,*,'aros,*
 asiento,kuusho,*,kuusho,*
@@ -57,10 +59,12 @@ carne,sis,*,shish,*
 carta,too'do,*,toto',*
 casa,tük,*,tük,*
 cayuco,aa',*,'aa',*
+cebollín,sebuyiin,*,sepoyin,*
 ceiba,seeybu,seeybo,seeybu,*
 ceniza,jo'omi,jo'ome,jo'm-e,*
 centro,kuku,kuko,kuk-joj,*
 cercano,too'mo,*,too'mo,*
+chayote,gwüü'ye,gwüü'yü,wüü'ye,*
 chile,ndyiigwi,ndyii,niiwi,*
 chiquiguao,siksik,*,shikshik,*
 chorote,gwaayo,*,way-o,*
@@ -85,6 +89,7 @@ criatura,uu'ne,*,uu'ne,*
 cuánto,jutzna,*,jutz-na,*
 cuatro,mbaksna,*,maks-na,*
 cucaracha,ko'ogo,*,ko'oko,*
+cuchara,kütsi,*,kütz-e,*
 culebra,tzaanyo,*,tzaanyo,*
 cumpleaños,mbashanüüye,mbashanüüyi,maashan-nüünyü,*
 dedo pulgar,gwütkü'ügümbaa,kigimba büjpe,wüt-kü'ü-kü-maa,*
@@ -119,6 +124,7 @@ fruta,tüm,*,tüm,*
 fuego,jukte,*,jukte,*
 fumador,jugubü'k,*,juk-u-pü'k,*
 fumar,juk,juug,juk,*
+gallo,kaasi,*,kaashi,*
 ganado,gwaagax,*,waakash,*
 gato,miistu,*,miistu,*
 gente,kristyaano,*,kristyaano,*
@@ -149,6 +155,7 @@ huevo,po'ogwi,*,po'owi,*
 idioma,oode,oodi,'ote,*
 iglesia,mbashtük,*,maash-tük,*
 iguana,paadzya,paadzyu,paatzya,*
+jaguacte,gwaa'ba,*,waa'pa,*
 jícara,ee'gwüsh,*,'ee'wash,*
 lagaña,chingdya chaadzük,*,ting-ta taatzük,*
 lejos,ju'm,*,ju'm,*
@@ -209,6 +216,8 @@ papaya,ondza,*,'ontza,*
 papel,too'do,*,toto',*
 pariente,tü'diña,*,tüü'ta-iñaj,*
 patio,angǘ'ü,,'ang-kü'ü,*
+pato,paa'du,paa'do,paa'tu,*
+pavito,seandu'u,mbandu'u,maan-tu'un,*
 pecho,kukpak,*,kuk-pak,*
 pejelagarto,akshaj,*,'akshaj,*
 pelo,pük,*,pük,*
@@ -223,6 +232,7 @@ plátano,inela,shap,shap,*
 platicar,tzam,ndzam,n-tzam,*
 playa,ñaaga mbej,*,naka-meej,*
 pluma,pük,*,pük,*
+pollito,seambiyu,*,shyan-piyu,*
 pollo,piyu,*,piyu,*
 popal,koo'bo,*,kopo',*
 pozo,josh,*,josh,*
@@ -250,6 +260,7 @@ selva,jümni,jümne,jümni,*
 semilla,puj,*,puj,*
 silla,koongo,*,kong-kü,*
 sol,jaama,*,jaama,*
+sombrero,shumneej,*,shumneej,*
 sueño,mbapsi,*,mapsh-e,*
 tabaco,tzüügwi,tzüügwe,tzüüwe,*
 tábano,pingbak,pinyuk,ping-pak,*
@@ -277,6 +288,7 @@ tú,mitz,*,mitz,*
 uña,küüdzigash,*,küützi-kash,*
 uno,tum,*,tum,*
 vaca,gwaagax,*,waakax,*
+vaina de machete,ndashkonshyago,*,naksh-ku-sya-ku,*
 vámonos ya,teda'ama,*,te-ta'am-am,*
 venado,mbǘ'a,*,mü'a,*
 verdad,numde,numdi,numte,*
