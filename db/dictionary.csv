@@ -1,6 +1,4 @@
 español,ayapaneco1,ayapaneco2,raíz,ejemplo
-Amatitán,pijtzima,*,pijtchima,*
-Cupilco,tzi'imi,tzi'ime,tzi'imi,*
 abajo,kü'm,*,kü'm,*
 abuela,oogo,*,'ooko,*
 abuelo,aabo,*,'aapo,*
@@ -15,6 +13,7 @@ aguacate,ku'udyi,*,ku'uti,*
 aguardiente,ndü'ku,ndü'ko,nü'k-ku,*
 ahijada,mbashtükmaada,*,maash-tük-maata,*
 ahijado,mbashtükmaadu,*,maash-tük-maatu,*
+ahora,nu'ga,*,nu'k-'am,*
 ala,shaj,*,shaj,*
 alacrán,kakgwa'y,kakngwa'y,kakwa'y,*
 alegre,sho'oga,*,sho'okaj,*
@@ -26,6 +25,7 @@ alto,yuku cheene,*,yuku y-ten-e,*
 amargo,tam,*,tam,*
 amarillo,pu'utzi,*,pu'utzi,*
 amarrar,tzen,*,tzen,*
+amatitán,pijtzima,*,pijtchima,*
 amigo,yamiigo,*,yamiigo,*
 ancho,peetki,peetke,peetki,*
 anciana,tzamgu'yoogo,kü'tzeogo,tzam-kuy-'ooko,*
@@ -63,6 +63,7 @@ billete,too'do,*,toto',*
 blanco,poo'bo,*,popo',*
 boca,naaga,*,naaka,*
 bonito,shungu,shungo,shun-ku,*
+brazo,ja'ngu,ja'ngo,ja'ng-ku,*
 brujería,poku,*,pok-ku,*
 brujo,pogobü'k,*,pok-pü'k,*
 brujos,pokü'ügwi,pokü'ügwe,pok-kü'üwi,*
@@ -165,6 +166,8 @@ cuerno,gwaa'nga,gweaa'nga,waa'nga,*
 culebra,tzaanyo,*,tzaanyo,*
 cumpleaños,mbashanüüye,mbashanüüyi,maashan-nüünyü,*
 cuñado,kuñaa,kuñaadu,kunyaatu,*
+cupilco,tzi'imi,tzi'ime,tzi'imi,*
+cupilqueño,tzi'midzu,*,tzi'mi-tzu,*
 curandero,tzügübü'k,*,tzük-pü'k,*
 curar,tzük,*,tzük,*
 dar prestado,ndu'kshtzi',*,nu'ksh-tzi',*
@@ -207,6 +210,7 @@ falda,te'ksi,*,te'kshi,*
 fierro,tü'ngu,tü'ngo,tung-ku,*
 fiesta,shung,*,shung,*
 finado,tzu'utz,*,tzu'tz,*
+fiscal,piske,pisketa,pisketa,*
 flaco,tützka,gwaya'y,tütz-ka',*
 flor,mbooya,*,mooya,*
 fogón,jogong,*,jokong,*
@@ -216,39 +220,51 @@ fruta,tüm,*,tüm,*
 fuego,jukte,*,jukte,*
 fumador,jugubü'k,*,juk-u-pü'k,*
 fumar,juk,juug,juk,*
+gallina,tzu'ubiyu,*,tzu'uwe-piyu,*
 gallo,kaasi,*,kaashi,*
 ganado,gwaagax,*,waakash,*
 garganta,o'okto,o'oktu,o'oktu,*
+garrapata,pe'tz,*,pe'tz,*
 gato,miistu,*,miistu,*
+gavilán,tajpi,*,tajpi,*
 gente,kristyaano,*,kristyaano,*
 golosina,tziingu,tziingo,tzingun,*
 gordo,mbüj,*,müj,*
 gracias,dyuus yuja'a,*,*,*
-grande,gwüt,*,wüt,*
+grande,gwüt,yüm,wüt,*
 grande,yümi,yüme,yümi,*
+gritar,ngwej,mwee,ng-wej,*
 guajolote,nda'ngdu'u,*,na'ng-tu'un,*
 guayaba,paa'da,*,paa'tan,*
 guineo,inela,*,'inela,*
+gusano,tzu'ugi,tu'uge,tzu'uki,*
 hablar,odoj,odoo,'oto,*
 hamaca,kajtza',*,kajtza',*
 hambre,yu',*,yu',*
 hermana,yomdüü'da,*,yomo'-tüü'ta,*
 hermano,tüü'da,*,tüü'ta,*
 herramienta,mbeshku,mbeshko,mesh-ku,*
+hígado,tzoo'go,*,tzoo'ko,*
 hija,yomaa,*,yomo'-maan,*
 hijas,yomantanda,*,yomo'-maan-ta,*
 hijo,jaymbea,*,jaaya-maan,*
 hijos,mantanda,*,maan-ta,*
+hilo,tü'psi,*,tü'psh-i,*
 hoja de papel,tot'a'y,*,toto'-'a'y,*
+hoja,ya'y,*,'a'y,*
 hola,juu'na,*,ju'-na,*
 hombre,püü,püüsi,püüshin,*
 horcón,kom,*,kom,*
 hormiga,jatzuugi,jatzuuge,jatzuuki,*
+hoy,nu'ga,*,nu'k-'am,*
+huérfano,to'osi,*,to'osh-e,*
 hueso,pak,*,pak,*
 huevo,po'ogwi,*,po'owi,*
+humo,joogo,*,jooko,*
 idioma,oode,oodi,'ote,*
 iglesia,mbashtük,*,maash-tük,*
 iguana,paadzya,paadzyu,paatzya,*
+iquinuapa,toyme,tonyma,tonyma,*
 jaguacte,gwaa'ba,*,waa'pa,*
 jícara,ee'gwüsh,*,'ee'wash,*
 la,mbe',je',me',*
